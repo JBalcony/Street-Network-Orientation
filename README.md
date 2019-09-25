@@ -4,4 +4,4 @@ Created polar histogram of streets in 25 Polish cities.
 
 Cities were selected by the size (number of residents) on the basis of the [demographic year 2018](https://stat.gov.pl/obszary-tematyczne/roczniki-statystyczne/roczniki-statystyczne/rocznik-demograficzny-2018,3,12.html) from Central Statistical Office (GUS).
 
-[Street Network orientation in major cities in Poland](street-orientationsEN.png)
+![street-orientationsEN](https://user-images.githubusercontent.com/8020682/65589886-1d34ef00-df8a-11e9-8fa8-bfd06f027598.png)
